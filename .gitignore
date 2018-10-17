@@ -328,3 +328,6 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+Vidly/Vidly/Content/DataTables/
+Vidly/Vidly/Scripts/DataTables/
+Vidly/Vidly/Scripts/
